@@ -1,0 +1,11 @@
+[package]
+name = "rust-exercises"
+version = "0.1.0"
+authors = ["gabriel-letarte <gabriel.letarte@gmail.com>"]
+
+[[bin]]
+name = "exercises"
+path = "src/chapter-10.rs"
+doc = false
+
+[dependencies]
